@@ -5,3 +5,4 @@
 I created a floder namede Assignment on the desktop and opened it in vscode. Using gut ash i created a read.txt file and added five lines in it . Then i initialized the repository using git init , added the git add . and git commit -m "step1' ,"step2" , step3" . whie changing and saving the comments finally used git log to view the commit history .
  converted branch
  to feature
+ hello
